@@ -16,6 +16,6 @@ new Updater(
 		'repo' => 'i-Emran/ab', // Theme repository.
 		'slug' => 'ab', // Theme Slug.
 		'url' => 'https://github.com/i-Emran/ab', // Theme URL.
-		'ver' => 1.4 // Theme Version.
+		'ver' => 1.6 // Theme Version.
 	]
 );
